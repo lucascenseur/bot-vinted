@@ -1,37 +1,37 @@
 {
   "subscriptions": [
     {
-      "id": "x06tt",
+      "id": "SNKRS",
       "url": "https://www.vinted.fr/vetements?search_text=&brand_id[]=53&brand_id[]=283953&brand_id[]=1775&brand_id[]=14&brand_id[]=2703&size_id[]=786&size_id[]=788&price_to=40.0&currency=EUR&search_id=4535038823&order=newest_first",
       "channelID": "939900318781677628"
     },
     {
-      "id": "6ildm8",
-      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
-      "channelID": "939900233016549416"
-    },
-    {
-      "id": "3n1z2a",
-      "url": "https://www.vinted.fr/vetements?search_text=&price_to=25.0&currency=EUR&search_id=4535963713&order=newest_first&brand_id[]=88&size_id[]=208&size_id[]=209",
+      "id": "TNF",
+      "url": "https://www.vinted.fr/vetements?search_text=&brand_id[]=2319&price_to=25.0&currency=EUR&search_id=4535963713&order=newest_first",
       "channelID": "939966465740796024"
     },
     {
-      "id": "wjkvbv",
+      "id": "CRT",
+      "url": "https://www.vinted.fr/vetements?search_text=carhartt&size_id[]=208&size_id[]=209&price_to=20.0&currency=EUR&search_id=4534252271&order=newest_first",
+      "channelID": "939929720051617803"
+    },
+    {
+      "id": "PANT",
       "url": "https://www.vinted.fr/vetements?search_text=&search_id=4536968758&size_id[]=208&size_id[]=209&catalog[]=1820&catalog[]=1821&catalog[]=260&catalog[]=261&price_to=15&currency=EUR&brand_id[]=53&brand_id[]=14&brand_id[]=10&brand_id[]=88&brand_id[]=94&brand_id[]=304&brand_id[]=255&brand_id[]=573&brand_id[]=14803",
       "channelID": "939991252894613525"
     },
     {
-      "id": "1ze3nj",
-      "url": "https://www.vinted.fr/vetements?search_text=carhartt&size_id[]=208&size_id[]=209&price_to=20.0&currency=EUR&search_id=4534252271&order=newest_first",
-      "channelID": "939929720051617803"
+      "id": "RL",
+      "url": "https://www.vinted.fr/vetements?search_text=&price_to=25.0&currency=EUR&search_id=4535963713&order=newest_first&brand_id[]=88&size_id[]=208&size_id[]=209",
+      "channelID": "939900233016549416"
     }
     
   ],
-  "last_item_ts_x06tt": 1643992809000,
+  "last_item_ts_SNKRS": 1643992809000,
   "is_first_sync": false,
-  "last_item_ts_6ildm8": 1643992809000,
-  "last_item_ts_3n1z2a": 1643992809000,
-  "last_item_ts_wjkvbv": 1643992809000,
-  "last_item_ts_1ze3nj": 1643992809000
+  "last_item_ts_TNF": 1643992809000,
+  "last_item_ts_CRT": 1643992809000,
+  "last_item_ts_PANT": 1643992809000,
+  "last_item_ts_RL": 1643992809000
 
 }
