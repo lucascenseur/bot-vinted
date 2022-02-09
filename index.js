@@ -173,7 +173,8 @@ client.on('ready', () => {
     setInterval(sync, 1500);
 
     const { version } = require('./package.json');
-    client.user.setActivity(` | v${version}`);
+    client.user.setActivity(`bgf boy, on termine tous vos rappeurs`);
+
 });
 
 client.on('interactionCreate', (interaction) => {
